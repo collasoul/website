@@ -3,7 +3,7 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"Create_Super_Fans_atlas_1", frames: [[0,0,2589,2947]]}
+		{name:"Create_Super_Fans_atlas_P_1", frames: [[0,0,2589,2947]]}
 ];
 
 
@@ -28,7 +28,7 @@ lib.ssMetadata = [
 
 
 (lib.CollasoulLogoSquare_Light_NEW03 = function() {
-	this.initialize(ss["Create_Super_Fans_atlas_1"]);
+	this.initialize(ss["Create_Super_Fans_atlas_P_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 // helper functions:
@@ -3166,7 +3166,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"https://static.wixstatic.com/media/ffe35f_bf0b49bf38f449a296aa0226462d65ec~mv2.png", id:"Create_Super_Fans_atlas_1"}
+		{src:"https://static.wixstatic.com/media/ffe35f_bf0b49bf38f449a296aa0226462d65ec~mv2.png", id:"Create_Super_Fans_atlas_P_1"}
 	],
 	preloads: []
 };
